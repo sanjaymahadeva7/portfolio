@@ -51,7 +51,7 @@ $(document).ready(function() {
       delay: 200
     });
   
-    ScrollReveal().reveal(".header a, .profile-photo, .about-content, .education", {
+    ScrollReveal().reveal(".header a, .about-content, .education", {
       origin: "left"
     });
     ScrollReveal().reveal(".header ul, .profile-text, .about-skills, .internship", {
